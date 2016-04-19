@@ -1,4 +1,4 @@
-# 知乎专栏App
+# 专栏App
 
 空余时间开发的一个App，非官方知乎专栏App，里面的内容全部来自知乎，内容版权也是知乎的，我挺喜欢知乎的
 
@@ -19,13 +19,13 @@ http://bxbxbai.gitcafe.io/2015/03/26/zhuanlan/
 
 ##看截图：
 
-<img src="https://raw.githubusercontent.com/bxbxbai/ZhuanLan/master/images/home.png" alt="闪屏" style="max-width:50%;">
+<img src="https://raw.githubusercontent.com/bxbxbai/ZhuanLan/master/images/home.png" alt="闪屏" style="max-width:200px;">
 
-<img src="https://raw.githubusercontent.com/bxbxbai/ZhuanLan/master/images/list.png" alt="2" style="max-width:50%;">
+<img src="https://raw.githubusercontent.com/bxbxbai/ZhuanLan/master/images/list.png" alt="2" style="max-width: 200px;">
 
-<img src="https://raw.githubusercontent.com/bxbxbai/ZhuanLan/master/images/story.png" alt="3" style="max-width:50%;">
+<img src="https://raw.githubusercontent.com/bxbxbai/ZhuanLan/master/images/story.png" alt="3" style="max-width:200px;">
 
-<img src="https://raw.githubusercontent.com/bxbxbai/ZhuanLan/master/images/story2.png" alt="4" style="max-width:50%;">
+<img src="https://raw.githubusercontent.com/bxbxbai/ZhuanLan/master/images/story2.png" alt="4" style="max-width:200px;">
 
 
 ## Dependency - 依赖
