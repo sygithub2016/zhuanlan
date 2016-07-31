@@ -55,9 +55,9 @@ public class PeopleListFragment extends Fragment {
         String[] ids = getActivity().getResources().getStringArray(R.array.people_ids);
 
         Map<String, UserEntity> map = new ArrayMap<>();
-        for (UserEntity entity : list) {
+        /*for (UserEntity entity : list) {
             map.put(entity.getSlug(), entity);
-        }
+        }*/
 
         for (String id : ids) {
             UserEntity entity = map.get(id);
